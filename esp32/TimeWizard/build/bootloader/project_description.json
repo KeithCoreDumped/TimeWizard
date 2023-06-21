@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/WorkLoad/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/bootloader",
+    "config_file":        "D:/WorkLoad/TimeWizard/esp32/TimeWizard/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4.4-dirty",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/WorkLoad/esp/esp-idf/components/efuse/Kconfig;D:/WorkLoad/esp/esp-idf/components/esp32/Kconfig;D:/WorkLoad/esp/esp-idf/components/esp_common/Kconfig;D:/WorkLoad/esp/esp-idf/components/esp_hw_support/Kconfig;D:/WorkLoad/esp/esp-idf/components/esp_system/Kconfig;D:/WorkLoad/esp/esp-idf/components/freertos/Kconfig;D:/WorkLoad/esp/esp-idf/components/hal/Kconfig;D:/WorkLoad/esp/esp-idf/components/log/Kconfig;D:/WorkLoad/esp/esp-idf/components/newlib/Kconfig;D:/WorkLoad/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/WorkLoad/esp/esp-idf/components/bootloader/Kconfig.projbuild;D:/WorkLoad/esp/esp-idf/components/esp_rom/Kconfig.projbuild;D:/WorkLoad/esp/esp-idf/components/esptool_py/Kconfig.projbuild;D:/WorkLoad/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "D:/WorkLoad/esp/esp-idf/components/bootloader", "D:/WorkLoad/esp/esp-idf/components/bootloader_support", "D:/WorkLoad/esp/esp-idf/components/efuse", "D:/WorkLoad/esp/esp-idf/components/esp32", "D:/WorkLoad/esp/esp-idf/components/esp_common", "D:/WorkLoad/esp/esp-idf/components/esp_hw_support", "D:/WorkLoad/esp/esp-idf/components/esp_rom", "D:/WorkLoad/esp/esp-idf/components/esp_system", "D:/WorkLoad/esp/esp-idf/components/esptool_py", "D:/WorkLoad/esp/esp-idf/components/freertos", "D:/WorkLoad/esp/esp-idf/components/hal", "D:/WorkLoad/esp/esp-idf/components/log", "D:/WorkLoad/esp/esp-idf/components/bootloader/subproject/main", "D:/WorkLoad/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "D:/WorkLoad/esp/esp-idf/components/newlib", "D:/WorkLoad/esp/esp-idf/components/partition_table", "D:/WorkLoad/esp/esp-idf/components/soc", "D:/WorkLoad/esp/esp-idf/components/spi_flash", "D:/WorkLoad/esp/esp-idf/components/xtensa", "" ]
+}

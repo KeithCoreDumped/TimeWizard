@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/CMakeFiles/bootloader
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/CMakeFiles/bootloader.rule
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/CMakeFiles/bootloader-complete.rule
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/WorkLoad/TimeWizard/esp32/TimeWizard/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

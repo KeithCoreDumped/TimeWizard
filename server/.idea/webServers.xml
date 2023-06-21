@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="721a74bb-9795-4cfd-9c46-c3227d956904" name="api.nickwald.top">
+        <fileTransfer rootFolder="/www/wwwroot/api.nickwald.top" accessType="SFTP" host="43.143.148.213" port="22" sshConfigId="39fa65a7-23e0-4aa5-8e35-96eb25a6bdd3" sshConfig="root@43.143.148.213:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
